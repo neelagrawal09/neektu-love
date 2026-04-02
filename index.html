@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Our Little World 🐼💖</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Pacifico&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ✨ Floating Hearts Background -->
+  <div class="hearts-bg" id="heartsBg"></div>
+
+  <!-- 🐼 Loading Screen -->
+  <div class="page active" id="loadingPage">
+    <div class="loading-card">
+      <div class="panda-loader">
+        <div class="panda-face">
+          <div class="panda-ear left"></div>
+          <div class="panda-ear right"></div>
+          <div class="panda-head">
+            <div class="panda-eye left"><div class="pupil"></div></div>
+            <div class="panda-eye right"><div class="pupil"></div></div>
+            <div class="panda-nose"></div>
+            <div class="panda-mouth"></div>
+          </div>
+        </div>
+      </div>
+      <p class="loading-text">Loading our little world<span class="dots">...</span></p>
+      <div class="loading-bar"><div class="loading-fill"></div></div>
+    </div>
+  </div>
+
+  <!-- 💖 Login Page -->
+  <div class="page" id="loginPage">
+    <div class="page-inner">
+      <div class="glass-card login-card">
+        <div class="panda-mini">🐼</div>
+        <h1 class="page-title">Welcome Bhakti <span class="heart-beat">💖</span></h1>
+        <p class="subtitle">Enter our secret garden~</p>
+
+        <!-- 🧩 Hint Riddle on Login -->
+        <div class="login-hint-box">
+          <div class="hint-label">🌙 Hint for your secret name~</div>
+          <p>A name made from <span class="highlight">Neel</span> + <span class="highlight">Bhakti</span>,</p>
+          <p>A bond only we can see,</p>
+          <p>Solve this to find your username 💕</p>
+        </div>
+
+        <div class="form-group">
+          <label>Secret Name 🌸</label>
+          <input type="text" id="username" placeholder="Enter secret name" autocomplete="off"/>
+        </div>
+        <div class="form-group">
+          <label>Magic Password 🔑</label>
+          <input type="password" id="password" placeholder="Shh... type it softly"/>
+        </div>
+        <div class="error-msg" id="loginError">Oops! Try again cutie 🐼</div>
+        <button class="btn-primary" onclick="handleLogin()">Open Our World 💕</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 💌 Questions Page -->
+  <div class="page" id="questionsPage">
+    <div class="page-inner">
+      <div class="glass-card questions-card">
+        <div class="panda-mini">🐼</div>
+        <h2 class="page-title">Let's See If You Know 😏</h2>
+        <div class="questions-container" id="questionsContainer">
+          <!-- Questions injected by JS -->
+        </div>
+        <button class="btn-primary" onclick="handleContinue()">Continue 💖</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 💖 Love Popup Overlay -->
+  <div class="love-popup" id="lovePopup">
+    <div class="love-popup-inner">
+      <div class="big-panda">🐼</div>
+      <div class="love-rhyme">
+        <p class="rhyme-line" style="animation-delay:0.1s">In a world full of noise and rush,</p>
+        <p class="rhyme-line" style="animation-delay:0.5s">You're my quiet, my calm, my hush.</p>
+        <p class="rhyme-line" style="animation-delay:0.9s">Every moment feels more right,</p>
+        <p class="rhyme-line" style="animation-delay:1.3s">When you're the reason I smile tonight.</p>
+        <p class="rhyme-line rhyme-name" style="animation-delay:1.8s">— Always yours, Bhakti 💖</p>
+      </div>
+      <div class="popup-hearts" id="popupHearts"></div>
+      <div class="sparkles" id="sparkles"></div>
+    </div>
+  </div>
+
+  <!-- 📅 Date Cards Page -->
+  <div class="page" id="datePage">
+    <div class="page-inner date-page-inner">
+      <h2 class="page-title centered-title">Our Special Days 🗓️💕</h2>
+      <p class="subtitle centered-sub">Swipe through our little journey~</p>
+      <div class="carousel-wrapper">
+        <button class="carousel-btn prev" onclick="slideCarousel(-1)">‹</button>
+        <div class="carousel-track-outer">
+          <div class="carousel" id="carousel"></div>
+        </div>
+        <button class="carousel-btn next" onclick="slideCarousel(1)">›</button>
+      </div>
+      <div class="carousel-dots" id="carouselDots"></div>
+    </div>
+  </div>
+
+  <!-- 🌸 Memory Page -->
+  <div class="page" id="memoryPage">
+    <div class="page-inner">
+     <div class="memory-card memory-glass" id="memoryCard">
+
+  <button class="back-btn" onclick="goBackToCards()">← Back</button>
+
+  <div class="memory-date" id="memoryDate"></div>
+
+  <div class="memory-content">
+    
+    <div class="memory-left">
+      <div class="memory-image-wrap">
+        <div class="memory-image" id="memoryImage"></div>
+      </div>
+    </div>
+
+    <div class="memory-right">
+      <p class="memory-text" id="memoryText"></p>
+    </div>
+
+  </div>
+
+  <button class="btn-secondary" onclick="goBackToCards()">🌸 Back to Our Days</button>
+
+</div>
+    </div>
+  </div>
+
+  <!-- 🎵 Music Toggle -->
+  <button class="music-btn" id="musicBtn" onclick="toggleMusic()" title="Toggle music">🎵</button>
+  <audio id="bgMusic" loop>
+    <source src="https://www.soundjay.com/misc/sounds/magic-chime-02.mp3" type="audio/mpeg">
+  </audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
