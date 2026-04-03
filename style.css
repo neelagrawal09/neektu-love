@@ -831,6 +831,9 @@ html, body {
 /* RIGHT SIDE (TEXT) */
 .memory-right {
   width: 60%;
+   max-height: 400px;   /* adjust height */
+  overflow-y: auto;    /* enables vertical scroll */
+  padding-right: 10px
 }
 
 .memory-text {
