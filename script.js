@@ -270,11 +270,64 @@ Stay happy, keep smiling always 😊
 And yes…  
 Ronduuuuuuuuuuu 😄💖`,
   },
-  {
-    emoji: '🌙',
-    title: 'Dreaming Together',
-    para: 'April 3rd — the day we dream together. Do you remember the first dream we shared? Somewhere between the stars and the pillows, your name found its way into every thought. I hope you\'re smiling as you read this. 🌙',
-  },
+ {
+  emoji: '🌙',
+  title: 'Dreaming Together',
+  para: `💖🌸 Let’s start our journey from the very first moment we talked… 😊💕 <br><br>
+
+It was during our online lecture — sachdev ma’am’s English class 📚✨ <br>
+And in that lecture, I randomly messaged Bhakti… 💬🥺 <br><br>
+
+I don’t even know why, but I just felt like texting her because she looked so cute 🥹💖 <br>
+Her smile… her eyes… everything felt so special to me ✨💞 <br><br>
+
+So my first message was simply — “Hi” 😊 <br>
+And she replied — “Hi” 💕 <br><br>
+
+Then I said, “We’re talking for the first time…” <br>
+She said, “Yeah” 😄 <br><br>
+
+And from that small “hi”… <br>
+We just kept talking… chatting… texting all day and night 🌙💬💕 <br><br>
+
+💞✨ Then came the day we met for the first time offline… <br><br>
+
+At our school ground near the water tank 🌿💫 <br>
+She was there with her friend Parineeti 👭 <br>
+And I was there with my friend Kuber 👬 <br><br>
+
+I had bought a small chocolate for her 🍫🥺 (KitKat 💖) <br><br>
+
+We were both walking around… <br>
+I could see her… she could see me… 👀💓 <br><br>
+
+She knew I wanted to talk to her… <br>
+But she was teasing me 😄💞 <br><br>
+
+After 15–20 minutes… I gathered courage 💪❤️ <br>
+I went to her… talked… and we had such a sweet moment 🥺💖 <br><br>
+
+Then I gave her that chocolate 🍫💕 <br>
+That day was just perfect 💞🌸 <br><br>
+
+💖✨ And from that day… our journey truly began… <br><br>
+
+We kept talking… texting all night… <br>
+Becoming closer day by day 🥰💫 <br><br>
+
+From a random “Hi”… to my whole world 💞🌍 <br>
+You became my happiness… my peace… my home 🏡💖 <br><br>
+
+📸💖 This photo is from our first phase… Diwali 🎆✨ <br>
+Your first photo… my favorite memory 🥺💞 <br><br>
+
+💖🌸 This is our beginning… <br>
+The most beautiful part of my life ✨ <br><br>
+
+👉 My Bhakti… my panda 🐼💕 <br><br>
+
+💞✨ Thank you for being in my life… 🥺🌍💖`
+},
   {
     emoji: '☕',
     title: 'Morning Texts',
@@ -436,7 +489,7 @@ function openMemory(index, date) {
     `${mem.emoji} ${dayNames[date.getDay()]}, ${monthNames[date.getMonth()]} ${date.getDate()}`;
 
 document.getElementById('memoryImage').style.backgroundImage = `url('image/img_${index+1}.jpg')`;
-  document.getElementById('memoryText').textContent  = mem.para;
+  document.getElementById('memoryText').innerHTML = mem.para;
 
   showPage('memoryPage');
 }
