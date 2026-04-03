@@ -64,7 +64,7 @@ function handleLogin() {
   const pass = document.getElementById('password').value.trim().toLowerCase();
   const err  = document.getElementById('loginError');
 
-  if (user === 'neektu' && pass === 'love') {
+  if (user === 'golumolu' && pass === 'masti') {
     err.classList.remove('show');
     buildQuestions();
     showPage('questionsPage');
