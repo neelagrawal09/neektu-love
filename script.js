@@ -111,30 +111,30 @@ function handlePuzzle() {
    ============================ */
 const questions = [
   {
-    label: '🌸 What is Neel\'s favorite thing about you?',
-    type: 'options',
-    options: ['Your smile 😊', 'Your care 🫂', 'Your laugh 😄', 'Everything 💖'],
+    label: "💞🌸 If you could relive one day we've spent together, which day would you choose and why? 🥺💖",
+    type: "input",
+    placeholder: "Tell me your favorite memory... 💭💕"
   },
   {
-    label: '📅 When did we first talk?',
-    type: 'input',
-    placeholder: 'Type the date or moment...',
+    label: "🥰✨ If you could show me exactly how you feel about me without words, what would you do? 💖",
+    type: "input",
+    placeholder: "Show me your feelings... 💕🌷"
   },
   {
-    label: '💕 Who loves more?',
-    type: 'options',
-    options: ['Neel loves more 💙', 'Bhakti loves more 💖', 'We love equally 💞', 'Both infinity 🌌'],
+    label: "😳💫 What's something about me that surprised you in the best possible way? 💖",
+    type: "input",
+    placeholder: "Tell me what made you smile... 😊💘"
   },
   {
-    label: '🌙 What is our cutest memory together?',
-    type: 'input',
-    placeholder: 'Tell me a moment...',
+    label: "🌙💭 What's a moment we shared that you replay in your mind when you're alone? 🥺💞",
+    type: "input",
+    placeholder: "That one special moment... 💖✨"
   },
   {
-    label: '🐼 Who is the bigger panda fan?',
-    type: 'options',
-    options: ['Neel 🐼', 'Bhakti 🐼', 'Both equally!! 🐼🐼'],
-  },
+    label: "🫶💜 What part of our relationship makes you feel safest to be your true self? 🥹💕",
+    type: "input",
+    placeholder: "Tell me what feels like home... 🏡💖"
+  }
 ];
 
 function buildQuestions() {
