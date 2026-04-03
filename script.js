@@ -435,7 +435,7 @@ function openMemory(index, date) {
   document.getElementById('memoryDate').textContent =
     `${mem.emoji} ${dayNames[date.getDay()]}, ${monthNames[date.getMonth()]} ${date.getDate()}`;
 
-document.getElementById('memoryImage').style.backgroundImage = `url('image/img_${index+1}.jpeg')`;
+document.getElementById('memoryImage').style.backgroundImage = `url('image/img_${index+1}.jpg')`;
   document.getElementById('memoryText').textContent  = mem.para;
 
   showPage('memoryPage');
