@@ -64,14 +64,18 @@ function handleLogin() {
   const pass = document.getElementById('password').value.trim().toLowerCase();
   const err  = document.getElementById('loginError');
 
+  console.log(user, pass); // debug
+
   if (user === 'panda' && pass === 'cute') {
     err.classList.remove('show');
     buildQuestions();
     showPage('questionsPage');
   } else {
     err.classList.add('show');
-    const user = document.getElementById('username').value.trim();
-const pass = document.getElementById('password').value.trim();
+
+    document.getElementById('username').value = '';
+    document.getElementById('password').value = '';
+
     setTimeout(() => err.classList.remove('show'), 3000);
   }
 }
