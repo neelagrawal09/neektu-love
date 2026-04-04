@@ -70,8 +70,8 @@ function handleLogin() {
     showPage('questionsPage');
   } else {
     err.classList.add('show');
-    document.getElementById('username').value = '';
-    document.getElementById('password').value = '';
+    const user = document.getElementById('username').value.trim();
+const pass = document.getElementById('password').value.trim();
     setTimeout(() => err.classList.remove('show'), 3000);
   }
 }
