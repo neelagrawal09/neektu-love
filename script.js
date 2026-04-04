@@ -64,7 +64,7 @@ function handleLogin() {
   const pass = document.getElementById('password').value.trim().toLowerCase();
   const err  = document.getElementById('loginError');
 
-  if (user === 'golumolu' && pass === 'masti') {
+  if (user === 'panda' && pass === 'cute') {
     err.classList.remove('show');
     buildQuestions();
     showPage('questionsPage');
@@ -111,29 +111,29 @@ function handlePuzzle() {
    ============================ */
 const questions = [
   {
-    label: "💞🌸 If you could relive one day we've spent together, which day would you choose and why? 🥺💖",
+    label: "💭🐼 What are three things I say a lot? ✨",
     type: "input",
-    placeholder: "Tell me your favorite memory... 💭💕"
+    placeholder: "Think carefully... what do I repeat often? 😏"
   },
   {
-    label: "🥰✨ If you could show me exactly how you feel about me without words, what would you do? 💖",
+    label: "📱💞 What's something about me you just can't figure out? 🤔",
     type: "input",
-    placeholder: "Show me your feelings... 💕🌷"
+    placeholder: "Be honest... I'm curious 👀💕"
   },
   {
-    label: "😳💫 What's something about me that surprised you in the best possible way? 💖",
+    label: "🚗💬 What's a compliment I've given you that you can't stop thinking about? 🥺💖",
     type: "input",
-    placeholder: "Tell me what made you smile... 😊💘"
+    placeholder: "That one line you still remember... 💭✨"
   },
   {
-    label: "🌙💭 What's a moment we shared that you replay in your mind when you're alone? 🥺💞",
+    label: "❤️🌸 What's one thing you wish we could do more often together? 🥰",
     type: "input",
-    placeholder: "That one special moment... 💖✨"
+    placeholder: "Something you want more of... 💕"
   },
   {
-    label: "🫶💜 What part of our relationship makes you feel safest to be your true self? 🥹💕",
+    label: "😳💫 What's one thing you still feel shy doing around me? 🥺",
     type: "input",
-    placeholder: "Tell me what feels like home... 🏡💖"
+    placeholder: "Don't be shy now... tell me 💖👀"
   }
 ];
 
@@ -331,8 +331,21 @@ The most beautiful part of my life ✨ <br><br>
   {
     emoji: '☕',
     title: 'Morning Texts',
-    para: 'April 4th — good mornings mean more when they come from you. Every message, every little "hey" — they all add up to something beautiful. You make ordinary mornings feel extraordinary. ☕💕',
-  },
+para: `💖🌸 It all started back in school when I thought I could manage everything — my relationship with Gauri and my bond with Bhakti 💭. I believed it wouldn’t affect anything, but slowly things changed. Without realizing it, I started giving more attention to my girlfriend, and Bhakti began feeling ignored, even though she never deserved that 🥺💔  
+
+One day, we were at Jaishankar panipuri 🥙. I was busy talking to my girlfriend about random things, while Bhakti was sitting nearby with Riya, quietly having bhelpuri. I didn’t even notice her properly or talk to her… and that hurt her more than I understood at that time 😞  
+
+Later, when my mom scolded me on call 📞 and Bhakti supported her, she got upset, walked away, and sat alone.  
+
+The next day, I came to know she had cried 😢. That moment hit me hard. During our prelim exams 📚, I tried to talk to her and apologize, but things were already broken. After everything that happened, many people stopped talking to me… but Bhakti didn’t 🤍  
+
+She was the only one who came forward, asked how I was, and cared about what I was going through 🫶  
+
+That’s when I realized her value. From that moment, I promised myself I would never make her feel alone again 🌸  
+
+Since then, we’ve been together — through fights, laughter, small arguments, and countless memories 🥰✨  
+
+And with time, our bond has only grown stronger and stronger 💞🐼`  },
   {
     emoji: '🎵',
     title: 'Our Playlist',
