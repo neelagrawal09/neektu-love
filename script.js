@@ -357,25 +357,278 @@ And maybe ours isn’t over yet… 💖
     para: 'April 6th — love lives in the small things. The way you laugh, the way you care, the way you exist. I notice everything about you, and every little thing makes me smile. 🌺',
   },
   {
-    emoji: '🌟',
-    title: 'You Shine',
-    para: 'April 7th — in a sky full of stars, you\'re the one that pulls my gaze every time. Not the brightest perhaps, but the most beautiful. The one I always look for first. ✨💖',
-  },
+  emoji: '🌺',
+  title: 'Small Moments',
+  para: `April 6th — So you might be thinking… why this photo doesn’t match the context. 🤔💭  
+
+But actually, this photo wasn’t given by you. I took it from your Instagram when you were live after our 10th. 💖✨  
+
+Not exactly at the end… but during that time when we had stopped talking and meeting each other. 🥺💔  
+I had secretly opened your Instagram… just to see you once, just to feel close to you somehow. 💞  
+That’s why this photo is here — to match those hidden feelings and that silent connection. 💫  
+
+Now, if I talk about what happened after that café day… 🍿✨  
+Get ready, because this part is a little dramatic and interesting. 😌💭  
+
+After the café, I went to my bua’s house. We were just having fun, chilling… nothing serious. 🏡💫  
+Meanwhile, in our WhatsApp group, all our friends — Govind, Tejas, Sanika, Gauri — were sharing café pictures and moments. 📱📸  
+
+But those same pictures reached my parents… 😶  
+And suddenly, everything changed. My relationship became known to everyone at home.  
+
+I got scolded… warned… not something very serious, but enough to shake everything. 💔  
+I lost connection with almost everyone.  
+I was completely alone for almost 2 months… 🥺  
+
+That phase — staying lonely at home — was really difficult. 💭  
+
+But… Bhakti stood up. 🤍  
+She messaged me on Instagram — “Hi, kaisa hai?” 💬  
+
+That one message… changed everything. 💖  
+
+At that time, my mom had opened my Instagram, and somehow I got access again.  
+I first went to talk to Gauri — she was live — but I was angry at her, at Tejas, at everyone. 😞  
+
+And then… I saw your message. 💫  
+I came to you and talked.  
+
+I told you everything — how I felt you forgot me, how you didn’t call or message me… 💔  
+
+But when you explained everything… I understood. 🥺💞  
+And we started talking again…  
+
+But something had changed.  
+A big… difficult change came into my life.  
+
+That part… I’ll tell you in the next card. 💫✨  
+
+And about this picture… 📸  
+This one is from Akola — when you were in your hostel room. 🏫💖  
+You didn’t send me this… your brother did. 💫  
+
+And that’s why this photo means more than just an image…  
+It’s a memory I held onto… when I needed you the most. 💞🌺`,
+},
+ {
+  emoji: '🐼',
+  title: 'Panda Day',
+  para: `April 8th — As we were talking about the dramatic change… the dramatic turn in life… 💫  
+
+Things slowly started getting normal again. I began talking to Gauri… and also to you. 💖  
+But when I was talking to Gauri, I noticed something strange… a sudden change in the way she talked, the way she texted. It didn’t feel normal. 🤔  
+
+After 2–3 days, I got a message from her account —  
+“I am Gauri’s brother. I know everything about both of you. Now you will not talk to Gauri. She will also not talk to you. Let’s end everything here.” 💔  
+
+Honestly… I felt something was wrong.  
+It didn’t feel real. The change in Gauri’s behavior was not acceptable. If her brother really knew everything, he would have talked to me directly… called me… confronted me. But nothing like that happened.  
+
+So I was never sure… was it really her brother? Or something else? 💭  
+
+I knew her brother was open-minded. He would have accepted things like this.  
+And somewhere, I also knew that Bhakti felt bad for me… but at the same time, she was a little happy that Gauri was no longer in my life.  
+
+Still… she supported me. She stood by my side and said that Gauri was wrong. 🤍  
+
+After all this… I took admission in Government Polytechnic. 🎓✨  
+And honestly… it was one of the best decisions of my life.  
+
+At first, I struggled a little… but then I met amazing people — Chaitanya, Harsh, and many others. 💫  
+My new friends, especially my female friends, brought happiness back into my life.  
+
+Slowly… I started healing.  
+I came out of my depression.  
+I started smiling again… living again… being happy again. 🥺💖  
+
+But then suddenly… one day…  
+I got a message that all our old friends — Gauri, Anuj, and others — were meeting at Anuj’s house.  
+
+I went there…  
+
+And what happened next… will be seen in the next part. 💫🍿  
+
+And about this picture… 📸  
+This is from Diwali. 🪔✨  
+You had sent me this when I was in diploma and you were in 11th.  
+
+I think it was on Telegram… I’m not sure from where exactly…  
+But I still have it. 💖  
+
+And that’s why this photo is special…  
+Because it carries a memory of you… from a time when everything felt different. 🐼💕`,
+},
   {
-    emoji: '🐼',
-    title: 'Panda Day',
-    para: 'April 8th — dedicated to our inner pandas. Soft, fluffy, adorable — just like this little world we\'ve built. A panda\'s heart is gentle, and so is yours. 🐼💕',
-  },
+  emoji: '🍓',
+  title: 'Sweet Like You',
+  para: `April 9th — When I reached Anuj’s home… everything started to change. 💫  
+
+At the entrance, I met his brother Swaroop. I asked him where everyone was, and he said, “They’re all inside the room.”  
+
+When I entered… Gauri saw me, Riya saw me… and they were completely shocked. 😶  
+It felt like they weren’t expecting me at all… like something hidden just got exposed.  
+
+I went to talk to them… but they avoided me. No one wanted to face me. 💔  
+
+At last, Govind took a step and said, “Let’s go to the terrace and clear everything.”  
+
+So we all went upstairs… but instead of Gauri, Riya started talking.  
+She kept saying, “She doesn’t want to continue… why are you forcing?”  
+
+But no one had the courage to look into my eyes and say it directly.  
+
+Anuj… he also didn’t support me. That shocked me the most. 😞  
+Only Govind and Tejas stood by my side.  
+
+After a lot of requests, explanations… I finally got tired.  
+I said, “This is the last time. I will never talk to you again in my life.” 💔  
+
+And that day… was truly the end.  
+
+From that day till today —  
+I never saw Gauri again.  
+Never talked to her.  
+Never went back to that group.  
+
+I only stayed in contact with Govind and Tejas. 🤍  
+
+But honestly… that ending changed my life.  
+
+When I left that group, I became free.  
+No stress… no fear of getting caught… no overthinking.  
+
+I started living again.  
+Enjoying my diploma life… smiling again… being happy again. 🥺💖  
+
+And when I told all this to Bhakti…  
+She simply said, “I already told you… this would happen.”  
+
+She even told me that Gauri was already with someone else in Akola…  
+And that was the real end of that relationship.  
+
+But that ending… became a new beginning. 💫  
+
+Not a new love… but my first love.  
+Bhakti. 💖  
+
+Yes, I made mistakes.  
+In 10th, we all just want a relationship… and I chose wrong.  
+But after everything… I realized who truly mattered.  
+
+Life with Bhakti became beautiful. 🥺💕  
+
+But her life had its own pain…  
+She lost her father… 💔  
+
+When I came to know that… I was deeply hurt for her.  
+Because I knew how much she loved him.  
+
+I called Aniruddh, our common friend… we both were shocked.  
+I wanted to go and meet her… to support her…  
+
+But I couldn’t. I had my diploma exams at that time.  
+And that is something I still regret. 😞  
+
+After that incident, she moved to Akola for her studies.  
+
+After 3–5 months… she texted me on Telegram. 💬  
+And I was shocked…  
+
+I didn’t know how to talk… how to comfort her…  
+But I took a step.  
+
+I asked her how she was…  
+She was broken… she just needed someone… someone to listen.  
+
+That day, I realized…  
+I wasn’t there when she needed me the most. 💔  
+
+So I made a promise to myself —  
+No matter what happens… I will always be there for her.  
+
+I can’t replace what she lost…  
+But I will make sure she never feels alone again.  
+
+I will make her smile…  
+I will make her feel loved…  
+I will never let her cry alone again. 💞  
+
+And after that…  
+
+You won’t believe how we started talking again…  
+In ways you can’t even imagine… 😏💫  
+
+👉 That story… I’ll tell you in the next part… 🍓💕`,
+},
   {
-    emoji: '🍓',
-    title: 'Sweet Like You',
-    para: 'April 9th — sweet things remind me of you. Strawberries, desserts, kind words — all of them taste a little better because you exist. Thank you for being the sweetest part of my day. 🍓',
-  },
-  {
-    emoji: '💌',
-    title: 'Love Letter',
-    para: 'April 10th — if I could write you a letter, it would say: you are seen, you are loved, you are more than enough. Every day with you in my thoughts is a gift I don\'t deserve but cherish forever. 💌',
-  },
+  emoji: '💌',
+  title: 'Love Letter',
+  para: `April 10th — After everything that happened… slowly, things started stabilizing. 💫  
+
+After 2–3 months, life became a little normal again.  
+I used to talk to Bhakti on Telegram… but since she was preparing for JEE, she would install and uninstall Telegram again and again. 📚💖  
+
+So we couldn’t talk daily…  
+Sometimes after 1 day… sometimes after 2–5 days… but still, we stayed connected somehow. 💞  
+
+Then one day… she gave me her mobile number. ☎️✨  
+
+At that time, I didn’t even have my own phone in my first semester.  
+So I took my friend Chaitanya’s phone… dialed her number…  
+
+I still remember… I was standing outside my Gauri sir’s maths tuition…  
+And for the first time… I talked to Bhakti on call. 🥺❤️  
+
+She had that small black Nokia-type phone with buttons…  
+That simple call meant everything to me. 💖  
+
+After that… we didn’t talk for 2–3 months again.  
+
+Then came that painful phase… after her father’s incident. 💔  
+She told me she was focusing on her 12th and JEE preparation, doing online lectures…  
+
+She stopped using Telegram completely.  
+And I had no way to reach her… no way to talk. 😞  
+
+But then… suddenly… she texted me on Instagram. 💬✨  
+And I was shocked… but happy.  
+
+We started talking again… slowly…  
+
+After that, we used every possible way to stay connected —  
+Instagram, Snapchat, Telegram… and especially SMS. 📱💞  
+
+SMS became something special…  
+
+When I sent her a message… I had to wait for hours… sometimes a whole day for a reply. 🥺  
+And that waiting… somehow felt beautiful.  
+
+Because every reply from her… felt precious. 💖  
+
+I was always ready to reply instantly…  
+But Bhakti… she always took her time — 2–3 hours… sometimes even a whole day. 😄  
+
+From that time till today… she is still the same.  
+Not a chat person at all… a very slow replier. 😌💫  
+
+But even then… we talked.  
+
+Short messages… long conversations…  
+Every message carried emotions.  
+
+Those chats… those waits…  
+They showed how deeply we were connected…  
+
+At that time… both of us were going through difficult phases in life…  
+But still… we were there for each other. 🤍  
+
+And after that year…  
+When she was in 12th and I was in my second year…  
+
+We created some of the most beautiful moments of our lives. 💖✨  
+
+👉 That part… I’ll tell you in the next story… 💌💕`,
+},
   {
     emoji: '🌈',
     title: 'Rainbow Day',
