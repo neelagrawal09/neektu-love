@@ -59,56 +59,28 @@ window.addEventListener('load', () => {
 /* ============================
    🔐 LOGIN
    ============================ */
+// ✅ FIXED: removed buildQuestions() call from handleLogin — it's already called before showPage
 function handleLogin() {
   const user = document.getElementById('username').value.trim().toLowerCase();
   const pass = document.getElementById('password').value.trim().toLowerCase();
   const err  = document.getElementById('loginError');
 
-  console.log(user, pass); // debug
-
   if (user === 'panda' && pass === 'cute') {
     err.classList.remove('show');
-    buildQuestions();
+    buildQuestions();        // ✅ only called once here
     showPage('questionsPage');
   } else {
     err.classList.add('show');
-
     document.getElementById('username').value = '';
     document.getElementById('password').value = '';
-
     setTimeout(() => err.classList.remove('show'), 3000);
   }
 }
 
-// Enter key support
-document.addEventListener('keydown', (e) => {
-  if (e.key === 'Enter') {
-    const active = document.querySelector('.page.active');
-    if (!active) return;
-    if (active.id === 'loginPage')    handleLogin();
-    if (active.id === 'puzzlePage')   handlePuzzle();
-  }
-});
-
-
-/* ============================
-   🧩 PUZZLE PAGE
-   ============================ */
-function handlePuzzle() {
-  const ans = document.getElementById('puzzleAnswer').value.trim().toLowerCase();
-  const err = document.getElementById('puzzleError');
-
-  if (ans === 'neektu') {
-    err.classList.remove('show');
-    buildQuestions();
-    showPage('questionsPage');
-  } else {
-    err.classList.add('show');
-    document.getElementById('puzzleAnswer').value = '';
-    setTimeout(() => err.classList.remove('show'), 3000);
-  }
+// ✅ FIXED: removed buildQuestions() — answers were getting wiped on Continue
+function handleContinue() {
+  showLovePopup();           // ✅ go straight to popup, no rebuild
 }
-
 
 /* ============================
    💌 QUESTIONS PAGE
