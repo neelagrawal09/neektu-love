@@ -351,7 +351,6 @@ And maybe ours isn’t over yet… 💖
 
 👉 The interesting part continues in the next part… 🥺💕`,
 },
-  
   {
   emoji: '🌺',
   title: 'Small Moments',
@@ -409,7 +408,7 @@ It’s a memory I held onto… when I needed you the most. 💞🌺`,
  {
   emoji: '🐼',
   title: 'Panda Day',
-  para: `April 8th — As we were talking about the dramatic change… the dramatic turn in life… 💫  
+  para: ` — As we were talking about the dramatic change… the dramatic turn in life… 💫  
 
 Things slowly started getting normal again. I began talking to Gauri… and also to you. 💖  
 But when I was talking to Gauri, I noticed something strange… a sudden change in the way she talked, the way she texted. It didn’t feel normal. 🤔  
@@ -457,7 +456,7 @@ Because it carries a memory of you… from a time when everything felt different
   {
   emoji: '🍓',
   title: 'Sweet Like You',
-  para: `April 9th — When I reached Anuj’s home… everything started to change. 💫  
+  para: ` — When I reached Anuj’s home… everything started to change. 💫  
 
 At the entrance, I met his brother Swaroop. I asked him where everyone was, and he said, “They’re all inside the room.”  
 
@@ -559,7 +558,7 @@ In ways you can’t even imagine… 😏💫
   {
   emoji: '💌',
   title: 'Love Letter',
-  para: `April 10th — After everything that happened… slowly, things started stabilizing. 💫  
+  para: ` — After everything that happened… slowly, things started stabilizing. 💫  
 
 After 2–3 months, life became a little normal again.  
 I used to talk to Bhakti on Telegram… but since she was preparing for JEE, she would install and uninstall Telegram again and again. 📚💖  
@@ -628,7 +627,7 @@ We created some of the most beautiful moments of our lives. 💖✨
 {
   emoji: '🌈',
   title: 'Rainbow Day',
-  para: `April 14th 2024 — One of the most beautiful days of my life… my Bhakti’s birthday. 🎂💖  
+  para: ` — One of the most beautiful days of my life… my Bhakti’s birthday. 🎂💖  
 
 After 3 long years… I was finally going to meet her. 🥺✨  
 Just imagine that feeling…  
@@ -789,7 +788,7 @@ abe dekh ky Rahi hai pagal website ka 14 wala card theek 11:50 ko open karna `,
 
 // Build dates array: April 2 → April 14, 2026
 const startDate = new Date('2026-04-02');
-const totalCards = 13; // Apr 2 to Apr 14
+const totalCards = 12; // Apr 2 to Apr 14
 
 function buildDateCards() {
   const carousel = document.getElementById('carousel');
