@@ -323,10 +323,34 @@ Since then, we’ve been together — through fights, laughter, small arguments,
 
 And with time, our bond has only grown stronger and stronger 💞🐼`  },
   {
-    emoji: '🎵',
-    title: 'Our Playlist',
-    para: 'April 5th — music sounds different when you\'re listening to it with someone in mind. Every love song secretly became about you. Every beat, every lyric. This one\'s our song. 🎵🌺',
-  },
+  emoji: '🎵',
+  title: 'Our Playlist',
+  para: `April 5th — So, as we talked about the last ending of 10th… that was the last time I saw Bhakti. 💖
+
+It was my final day at school. Like every student does on their last day, we were all writing messages, names, and giving signatures on each other’s shirts. It was emotional, happy, and a little painful at the same time. 🥺✨
+
+But the one thing I regret the most… I didn’t get a chance to write anything on Bhakti’s shirt. I couldn’t find her anywhere, and she didn’t want to talk to me… because I had been ignoring her and giving more priority to my girlfriend. 💔
+
+As usual, I was with my girlfriend and my friends like Gobindo and others. We had planned to go on a café date together. ☕💞
+
+But then… at that moment… at a random shop (I don’t even remember the name, just that it was a Punjabi shop), I saw Bhakti. 💫
+
+I told my friends, “You guys go ahead, I’ll come in 5 minutes.” And I went straight to her. 🥺❤️
+
+I said, “Please… just make my day memorable. I missed writing on your shirt… please let me write something.” 💖
+
+And then I wrote on her T-shirt:
+“You are my crush… my best friend.” 💞
+
+That moment… that was the last time I saw Bhakti. 🥺🌸
+
+After that, life became so difficult… so complicated… I never thought things would turn this way. I never imagined that I might never meet her again… unless she takes that one last step. 💔✨
+
+But maybe… every story has its twists… 💫  
+And maybe ours isn’t over yet… 💖
+
+👉 The interesting part continues in the next part… 🥺💕`,
+},
   {
     emoji: '🌺',
     title: 'Small Moments',
