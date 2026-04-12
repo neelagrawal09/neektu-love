@@ -351,11 +351,7 @@ And maybe ours isn’t over yet… 💖
 
 👉 The interesting part continues in the next part… 🥺💕`,
 },
-  {
-    emoji: '🌺',
-    title: 'Small Moments',
-    para: 'April 6th — love lives in the small things. The way you laugh, the way you care, the way you exist. I notice everything about you, and every little thing makes me smile. 🌺',
-  },
+  
   {
   emoji: '🌺',
   title: 'Small Moments',
