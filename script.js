@@ -857,7 +857,7 @@ function buildDateCards() {
     date.setDate(startDate.getDate() + i);
     date.setHours(0, 0, 0, 0);
 
-    const isLocked = date > today;
+    const isLocked = false;
     const mem = dateMemories[i];
 
     const card = document.createElement('div');
