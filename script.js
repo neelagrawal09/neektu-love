@@ -938,7 +938,7 @@ function openMemory(index, date) {
     const unlockTime = new Date('2026-04-14T00:00:00');
     const now = new Date();
 
-    if (now < unlockTime) {
+    if (false) {
       // Show countdown lock screen
       showBirthdayCountdown(unlockTime);
     } else {
