@@ -614,67 +614,7 @@ We created some of the most beautiful moments of our lives. 💖✨
 
 👉 That part… I'll tell you in the next story… 💌💕`,
 },
- {
-  emoji: '💖',
-  title: 'Valentine\'s Surprise',
-  para: `— One of the most beautiful days of my life… my Bhakti's birthday. 🎂💖  
 
-After 3 long years… I was finally going to meet her. 🥺✨  
-Just imagine that feeling…  
-
-When I was leaving my home, I was so happy… smiling non-stop, getting ready with excitement.  
-Even my mom noticed and asked, "Why are you so happy today?" 😄  
-
-I just said I'm going to meet my friends…  
-But inside… I knew where my happiness was coming from. 💞  
-
-I went to the cake shop where I had already decided the cake design a month before. 🎂  
-Then I called Bhakti — she told me she was at Dr. Chetan Agarwal's clinic for a dental checkup and would reach home in 30–40 minutes.  
-
-But for me… even those minutes felt too long. 🥺  
-
-I had some work from my father's side that day, so I decided to go the next day.  
-
-The next day, I went again to the same cake shop.  
-The uncle I knew wasn't there at first, and I couldn't find the same cake design.  
-So I almost decided to take a rasmalai cake instead…  
-
-But then he arrived. ✨  
-I explained the design to him, and he said, "Wait… I have two similar designs in the kitchen."  
-
-When he showed them… I picked one immediately. 💖  
-
-And then… I went to Bhakti's house.  
-
-After 3 years… I finally saw her. 🥺💞  
-That moment… that relief… that happiness…  
-I was nervous… but my heart was literally dancing with joy. 💓  
-
-We went inside, sat on the sofa, and kept the cake aside to chill.  
-And then… we started talking.  
-
-All those 3 years of missed conversations…  
-Every memory, every story, every small moment… we shared everything. 💫  
-
-We talked for 3–4 hours…  
-But honestly… it felt like just a few minutes. 🥺  
-
-Time just flew.  
-
-Finally, we brought the cake… but it was slightly damaged from one side 😅  
-(I had brought it on a scooty, so it got a little messed up.)  
-
-But still… it didn't matter.  
-The moment was perfect. 💖  
-
-We cut the cake…  
-Her mom and brother were there…  
-
-And that entire moment…  
-That meeting…  
-
-Is one of the most memorable and special moments of my life. 💞✨`,
-},
   {
   emoji: '🌈',
   title: 'Rainbow Day',
