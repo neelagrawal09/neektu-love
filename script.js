@@ -629,21 +629,161 @@ We created some of the most beautiful moments of our lives. 💖✨
 
 👉 That part… I’ll tell you in the next story… 💌💕`,
 },
+{
+  emoji: '🌈',
+  title: 'Rainbow Day',
+  para: `April 14th 2024 — One of the most beautiful days of my life… my Bhakti’s birthday. 🎂💖  
+
+After 3 long years… I was finally going to meet her. 🥺✨  
+Just imagine that feeling…  
+
+When I was leaving my home, I was so happy… smiling non-stop, getting ready with excitement.  
+Even my mom noticed and asked, “Why are you so happy today?” 😄  
+
+I just said I’m going to meet my friends…  
+But inside… I knew the real reason. 💞  
+
+I went to the cake shop where I had already decided the cake design a month before. 🎂  
+Then I called Bhakti — she told me she was at Dr. Chetan Agarwal’s clinic for a dental checkup and would reach home in 30–40 minutes.  
+
+But for me… even those minutes felt too long. 🥺  
+
+I had some work that day, so I decided to go the next day.  
+
+The next day, I went again to the same cake shop.  
+At first, I couldn’t find the same cake design, so I almost chose a rasmalai cake…  
+
+But then the shop uncle came and said he had two similar designs in the kitchen. ✨  
+The moment I saw them… I chose one immediately. 💖  
+
+And then… I went to Bhakti’s house.  
+
+After 3 years… I finally saw her. 🥺💞  
+That moment… that happiness… that relief…  
+I was nervous, but my heart was dancing with joy. 💓  
+
+We sat together, kept the cake to chill, and started talking…  
+All those 3 years of missed conversations… everything came out at once. 💫  
+
+We talked for hours…  
+But it felt like just a few minutes. 🥺  
+
+Time just flew…  
+
+When we finally cut the cake, it was slightly damaged from one side 😅  
+(because I brought it on a scooty)…  
+
+But it didn’t matter at all.  
+Because the moment was perfect. 💖  
+
+Her mom and brother were there…  
+And that whole meeting…  
+
+Became one of the most special and unforgettable memories of my life. 🌈💖`,
+},
+{
+  emoji: '🌙',
+  title: 'Midnight Thoughts',
+  para: ` One of the most beautiful moments of our life… the Nagpur meet. 🥺💖  
+
+This was the second time we met after her birthday…  
+But this time… it felt even more special. ✨  
+
+I had a competition — Depics — in Nagpur, where we were presenting our project. 🎓  
+But honestly… the competition wasn’t the main reason.  
+
+The real reason… was her. 💞  
+
+I just wanted to meet Bhakti… at any cost.  
+
+While planning the trip, I made sure of one thing —  
+No matter what happens, I need at least one full day just for her.  
+
+My friends like Sandesh were like, “Why are we staying extra in Nagpur?”  
+But I said clearly, “I’m staying. If you want, you can go… but I’ll be here.” 😌  
+
+After the competition, I came back, got ready… and went to meet her.  
+
+But when I reached… I came to know her mom was hospitalized. 🏥💔  
+So instead of anywhere else… I went to the hospital.  
+
+And then… I saw her…  
+Walking out of the building…  
+
+That moment… I can’t explain…  
+A smile just came on my face automatically —  
+Like… “Haaaye… my girl…” 🥺💖  
+
+We met her mom, talked for a bit about her health, and I told Bhakti to take care of her. 🤍  
+
+After that… we went for a scooty ride. 🛵✨  
+And of course… she was driving. 😄  
+
+I was sitting behind her… just enjoying everything —  
+The ride… the हवा… the moment… her presence…  
+
+We were laughing, teasing, doing little mischiefs —  
+From gudgudi to small playful moments…  
+That ride became one of the happiest memories of my life. 💞  
+
+I recorded those moments in my heart forever.  
+
+At the end… we had her favorite ice cream together. 🍦💖  
+
+And when it was time to leave…  
+
+She gave me a hug. 🥺  
+
+Not because I asked…  
+But from her heart.  
+
+And in that moment…  
+I completely fell for her. 💓  
+
+Because Bhakti…  
+She is simple… cute… pure…  
+
+And truly… one of the most special people in my life. 💖  
+
+I love you, Bhakti… always. 🌙💕`,
+},
   {
-    emoji: '🌈',
-    title: 'Rainbow Day',
-    para: 'April 11th — you are every color in my world. When everything seems grey, you somehow paint it with warmth and color. I\'m so lucky to see the world through our eyes. 🌈💖',
-  },
-  {
-    emoji: '🌙',
-    title: 'Midnight Thoughts',
-    para: 'April 12th — the quietest hours of the night are the loudest when it comes to thinking about you. I hope wherever you are, you feel it — the thought of you, carried softly across the distance. 🌙',
-  },
-  {
-    emoji: '💫',
-    title: 'Almost There',
-    para: 'April 13th — we\'re almost at the end of this little countdown, but this is just the beginning of something wonderful. Every page was written for you, Bhakti. Every word, every heart, every panda — all yours. 💫💖',
-  },
+  emoji: '💫',
+  title: 'Almost There',
+  para: `April 13th — This was our third meeting… after Nagpur. 💖  
+
+After exams, when she came to Washim, we met again at her home. 🏡✨  
+It wasn’t a very dramatic day… not something big…  
+
+Just a simple, calm, and beautiful day. 🥺  
+
+We sat together… talked about everything —  
+Life, situations, what we went through…  
+
+Divya was also there, and we all just had a normal, peaceful time together. 🤍  
+
+There wasn’t much to say…  
+But sometimes… the simplest moments are the most special ones. 💞  
+
+And at the end…  
+
+She gave me a hug again. 🥺💖  
+
+That small moment…  
+Was one of the sweetest feelings ever.  
+
+And that’s when I realized…  
+This journey — from distance… to connection… to love…  
+
+Was something truly special. 💫  
+
+And I made a promise to Bhakti…  
+
+No matter what happens…  
+I will always be there for you.  
+In every moment… in every situation… for life. 💖✨
+abe dekh ky Rahi hai pagal website ka 14 wala card theek 11:50 ko open karna `,
+},
   {
     emoji: '💖',
     title: 'Valentine\'s Surprise',
