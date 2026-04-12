@@ -836,8 +836,8 @@ In every moment… in every situation… for life. 💖✨`,
   },
 ];
 
-const startDate = new Date('2026-04-02');
-const totalCards = 13;
+const startDate = new Date('2026-04-03');
+const totalCards = 12;
 
 function buildDateCards() {
   const carousel = document.getElementById('carousel');
