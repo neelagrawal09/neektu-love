@@ -848,7 +848,7 @@ In every moment… in every situation… for life. 💖✨`,
 
 // Build dates array: April 2 → April 14, 2026
 const startDate = new Date('2026-04-03');
-const totalCards = 12; // Apr 2 to Apr 14
+const totalCards = 13; // Apr 2 to Apr 14
 
 function buildDateCards() {
   const carousel = document.getElementById('carousel');
