@@ -325,7 +325,7 @@ And with time, our bond has only grown stronger and stronger 💞🐼`  },
   {
   emoji: '🎵',
   title: 'Our Playlist',
-  para: `April 5th — So, as we talked about the last ending of 10th… that was the last time I saw Bhakti. 💖
+  para: ` — So, as we talked about the last ending of 10th… that was the last time I saw Bhakti. 💖
 
 It was my final day at school. Like every student does on their last day, we were all writing messages, names, and giving signatures on each other’s shirts. It was emotional, happy, and a little painful at the same time. 🥺✨
 
@@ -354,7 +354,7 @@ And maybe ours isn’t over yet… 💖
   {
   emoji: '🌺',
   title: 'Small Moments',
-  para: `April 6th — So you might be thinking… why this photo doesn’t match the context. 🤔💭  
+  para: `— So you might be thinking… why this photo doesn’t match the context. 🤔💭  
 
 But actually, this photo wasn’t given by you. I took it from your Instagram when you were live after our 10th. 💖✨  
 
@@ -405,7 +405,7 @@ You didn’t send me this… your brother did. 💫
 And that’s why this photo means more than just an image…  
 It’s a memory I held onto… when I needed you the most. 💞🌺`,
 },
- {
+  {
   emoji: '🐼',
   title: 'Panda Day',
   para: ` — As we were talking about the dramatic change… the dramatic turn in life… 💫  
@@ -558,7 +558,7 @@ In ways you can’t even imagine… 😏💫
   {
   emoji: '💌',
   title: 'Love Letter',
-  para: ` — After everything that happened… slowly, things started stabilizing. 💫  
+  para: `— After everything that happened… slowly, things started stabilizing. 💫  
 
 After 2–3 months, life became a little normal again.  
 I used to talk to Bhakti on Telegram… but since she was preparing for JEE, she would install and uninstall Telegram again and again. 📚💖  
@@ -624,10 +624,71 @@ We created some of the most beautiful moments of our lives. 💖✨
 
 👉 That part… I’ll tell you in the next story… 💌💕`,
 },
-{
+ {
+  emoji: '💖',
+  title: 'Valentine\'s Surprise',
+  para: `— One of the most beautiful days of my life… my Bhakti’s birthday. 🎂💖  
+
+After 3 long years… I was finally going to meet her. 🥺✨  
+Just imagine that feeling…  
+
+When I was leaving my home, I was so happy… smiling non-stop, getting ready with excitement.  
+Even my mom noticed and asked, “Why are you so happy today?” 😄  
+
+I just said I’m going to meet my friends…  
+But inside… I knew where my happiness was coming from. 💞  
+
+I went to the cake shop where I had already decided the cake design a month before. 🎂  
+Then I called Bhakti — she told me she was at Dr. Chetan Agarwal’s clinic for a dental checkup and would reach home in 30–40 minutes.  
+
+But for me… even those minutes felt too long. 🥺  
+
+I had some work from my father’s side that day, so I decided to go the next day.  
+
+The next day, I went again to the same cake shop.  
+The uncle I knew wasn’t there at first, and I couldn’t find the same cake design.  
+So I almost decided to take a rasmalai cake instead…  
+
+But then he arrived. ✨  
+I explained the design to him, and he said, “Wait… I have two similar designs in the kitchen.”  
+
+When he showed them… I picked one immediately. 💖  
+
+And then… I went to Bhakti’s house.  
+
+After 3 years… I finally saw her. 🥺💞  
+That moment… that relief… that happiness…  
+I was nervous… but my heart was literally dancing with joy. 💓  
+
+We went inside, sat on the sofa, and kept the cake aside to chill.  
+And then… we started talking.  
+
+All those 3 years of missed conversations…  
+Every memory, every story, every small moment… we shared everything. 💫  
+
+We talked for 3–4 hours…  
+But honestly… it felt like just a few minutes. 🥺  
+
+Time just flew.  
+
+Finally, we brought the cake… but it was slightly damaged from one side 😅  
+(I had brought it on a scooty, so it got a little messed up.)  
+
+But still… it didn’t matter.  
+The moment was perfect. 💖  
+
+We cut the cake…  
+Her mom and brother were there…  
+
+And that entire moment…  
+That meeting…  
+
+Is one of the most memorable and special moments of my life. 💞✨`,
+},
+  {
   emoji: '🌈',
   title: 'Rainbow Day',
-  para: ` — One of the most beautiful days of my life… my Bhakti’s birthday. 🎂💖  
+  para: `— One of the most beautiful days of my life… my Bhakti’s birthday. 🎂💖  
 
 After 3 long years… I was finally going to meet her. 🥺✨  
 Just imagine that feeling…  
@@ -676,10 +737,10 @@ And that whole meeting…
 
 Became one of the most special and unforgettable memories of my life. 🌈💖`,
 },
-{
+  {
   emoji: '🌙',
   title: 'Midnight Thoughts',
-  para: ` One of the most beautiful moments of our life… the Nagpur meet. 🥺💖  
+  para: ` — One of the most beautiful moments of our life… the Nagpur meet. 🥺💖  
 
 This was the second time we met after her birthday…  
 But this time… it felt even more special. ✨  
@@ -742,10 +803,10 @@ And truly… one of the most special people in my life. 💖
 
 I love you, Bhakti… always. 🌙💕`,
 },
-  {
+{
   emoji: '💫',
   title: 'Almost There',
-  para: `April 13th — This was our third meeting… after Nagpur. 💖  
+  para: ` — This was our third meeting… after Nagpur. 💖  
 
 After exams, when she came to Washim, we met again at her home. 🏡✨  
 It wasn’t a very dramatic day… not something big…  
@@ -776,8 +837,7 @@ And I made a promise to Bhakti…
 
 No matter what happens…  
 I will always be there for you.  
-In every moment… in every situation… for life. 💖✨
-abe dekh ky Rahi hai pagal website ka 14 wala card theek 11:50 ko open karna `,
+In every moment… in every situation… for life. 💖✨`,
 },
   {
     emoji: '💖',
@@ -788,7 +848,7 @@ abe dekh ky Rahi hai pagal website ka 14 wala card theek 11:50 ko open karna `,
 
 // Build dates array: April 2 → April 14, 2026
 const startDate = new Date('2026-04-02');
-const totalCards = 12; // Apr 2 to Apr 14
+const totalCards = 13; // Apr 2 to Apr 14
 
 function buildDateCards() {
   const carousel = document.getElementById('carousel');
