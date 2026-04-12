@@ -59,9 +59,25 @@ window.addEventListener('load', () => {
 /* ============================
    🔐 LOGIN
    ============================ */
-function enterWorld() {
-  buildDateCards();   // load cards
-  showPage('datePage'); // go to date page
+function handleLogin() {
+  const user = document.getElementById('username').value.trim().toLowerCase();
+  const pass = document.getElementById('password').value.trim().toLowerCase();
+  const err  = document.getElementById('loginError');
+
+  console.log(user, pass); // debug
+
+  if (user === 'panda' && pass === 'cute') {
+    err.classList.remove('show');
+    buildQuestions();
+    showPage('questionsPage');
+  } else {
+    err.classList.add('show');
+
+    document.getElementById('username').value = '';
+    document.getElementById('password').value = '';
+
+    setTimeout(() => err.classList.remove('show'), 3000);
+  }
 }
 
 // Enter key support
@@ -78,92 +94,92 @@ document.addEventListener('keydown', (e) => {
 /* ============================
    🧩 PUZZLE PAGE
    ============================ */
-// function handlePuzzle() {
-//   const ans = document.getElementById('puzzleAnswer').value.trim().toLowerCase();
-//   const err = document.getElementById('puzzleError');
+function handlePuzzle() {
+  const ans = document.getElementById('puzzleAnswer').value.trim().toLowerCase();
+  const err = document.getElementById('puzzleError');
 
-//   if (ans === 'neektu') {
-//     err.classList.remove('show');
-//     buildQuestions();
-//     showPage('questionsPage');
-//   } else {
-//     err.classList.add('show');
-//     document.getElementById('puzzleAnswer').value = '';
-//     setTimeout(() => err.classList.remove('show'), 3000);
-//   }
-// }
+  if (ans === 'neektu') {
+    err.classList.remove('show');
+    buildQuestions();
+    showPage('questionsPage');
+  } else {
+    err.classList.add('show');
+    document.getElementById('puzzleAnswer').value = '';
+    setTimeout(() => err.classList.remove('show'), 3000);
+  }
+}
 
 
 /* ============================
    💌 QUESTIONS PAGE
-//    ============================ */
-// const questions = [
-//   {
-//     label: "💭🐼 What are three things I say a lot? ✨",
-//     type: "input",
-//     placeholder: "Think carefully... what do I repeat often? 😏"
-//   },
-//   {
-//     label: "📱💞 What's something about me you just can't figure out? 🤔",
-//     type: "input",
-//     placeholder: "Be honest... I'm curious 👀💕"
-//   },
-//   {
-//     label: "🚗💬 What's a compliment I've given you that you can't stop thinking about? 🥺💖",
-//     type: "input",
-//     placeholder: "That one line you still remember... 💭✨"
-//   },
-//   {
-//     label: "❤️🌸 What's one thing you wish we could do more often together? 🥰",
-//     type: "input",
-//     placeholder: "Something you want more of... 💕"
-//   },
-//   {
-//     label: "😳💫 What's one thing you still feel shy doing around me? 🥺",
-//     type: "input",
-//     placeholder: "Don't be shy now... tell me 💖👀"
-//   }
-// ];
+   ============================ */
+const questions = [
+  {
+    label: "💭🐼 What are three things I say a lot? ✨",
+    type: "input",
+    placeholder: "Think carefully... what do I repeat often? 😏"
+  },
+  {
+    label: "📱💞 What's something about me you just can't figure out? 🤔",
+    type: "input",
+    placeholder: "Be honest... I'm curious 👀💕"
+  },
+  {
+    label: "🚗💬 What's a compliment I've given you that you can't stop thinking about? 🥺💖",
+    type: "input",
+    placeholder: "That one line you still remember... 💭✨"
+  },
+  {
+    label: "❤️🌸 What's one thing you wish we could do more often together? 🥰",
+    type: "input",
+    placeholder: "Something you want more of... 💕"
+  },
+  {
+    label: "😳💫 What's one thing you still feel shy doing around me? 🥺",
+    type: "input",
+    placeholder: "Don't be shy now... tell me 💖👀"
+  }
+];
 
-// function buildQuestions() {
-//   const container = document.getElementById('questionsContainer');
-//   container.innerHTML = '';
+function buildQuestions() {
+  const container = document.getElementById('questionsContainer');
+  container.innerHTML = '';
 
-//   questions.forEach((q, i) => {
-//     const item = document.createElement('div');
-//     item.className = 'question-item anim-in';
-//     item.style.animationDelay = (i * 0.08) + 's';
+  questions.forEach((q, i) => {
+    const item = document.createElement('div');
+    item.className = 'question-item anim-in';
+    item.style.animationDelay = (i * 0.08) + 's';
 
-//     const label = document.createElement('span');
-//     label.className = 'question-label';
-//     label.textContent = q.label;
-//     item.appendChild(label);
+    const label = document.createElement('span');
+    label.className = 'question-label';
+    label.textContent = q.label;
+    item.appendChild(label);
 
-//     if (q.type === 'options') {
-//       const opts = document.createElement('div');
-//       opts.className = 'question-options';
-//       q.options.forEach(opt => {
-//         const btn = document.createElement('button');
-//         btn.className = 'q-btn';
-//         btn.textContent = opt;
-//         btn.onclick = () => {
-//           opts.querySelectorAll('.q-btn').forEach(b => b.classList.remove('selected'));
-//           btn.classList.add('selected');
-//         };
-//         opts.appendChild(btn);
-//       });
-//       item.appendChild(opts);
-//     } else {
-//       const inp = document.createElement('input');
-//       inp.type = 'text';
-//       inp.className = 'question-input';
-//       inp.placeholder = q.placeholder;
-//       item.appendChild(inp);
-//     }
+    if (q.type === 'options') {
+      const opts = document.createElement('div');
+      opts.className = 'question-options';
+      q.options.forEach(opt => {
+        const btn = document.createElement('button');
+        btn.className = 'q-btn';
+        btn.textContent = opt;
+        btn.onclick = () => {
+          opts.querySelectorAll('.q-btn').forEach(b => b.classList.remove('selected'));
+          btn.classList.add('selected');
+        };
+        opts.appendChild(btn);
+      });
+      item.appendChild(opts);
+    } else {
+      const inp = document.createElement('input');
+      inp.type = 'text';
+      inp.className = 'question-input';
+      inp.placeholder = q.placeholder;
+      item.appendChild(inp);
+    }
 
-//     container.appendChild(item);
-//   });
-// }
+    container.appendChild(item);
+  });
+}
 
 
 /* ============================

@@ -34,47 +34,48 @@
   </div>
 
   <!-- 💖 Login Page -->
-<div class="page" id="loginPage">
-  <div class="page-inner">
-    <div class="glass-card login-card">
-      <div class="panda-mini">🐼</div>
+  <div class="page" id="loginPage">
+    <div class="page-inner">
+      <div class="glass-card login-card">
+        <div class="panda-mini">🐼</div>
+        <h1 class="page-title">Welcome Bhakti <span class="heart-beat">💖</span></h1>
+        <p class="subtitle">Enter our secret garden~</p>
+<div class="login-hint-box"> 
+  <div class="hint-label">🌙 Not everything is meant to be understood… </div>
 
-      <h1 class="page-title">
-        Welcome Bhakti <span class="heart-beat">💖</span>
-      </h1>
+  <p>Some names are spoken softly… only when the heart feels more 💞</p>
 
-      <p class="subtitle">Enter our secret garden~</p>
+  <p>👤 The one you’re looking for loves bamboo…<br>
+  But that’s not what I always call you…</p>
 
-      <div class="login-hint-box"> 
-        <div class="hint-label">🌙 Not everything is meant to be understood… </div>
+  <p>Sometimes, when affection grows a little more…<br>
+  I say something sweeter… something simple… something you already know 😉</p>
 
-        <p>Some names are spoken softly… only when the heart feels more 💞</p>
+  <p>🔐 Think carefully…</p>
 
-        <p>👤 The one you’re looking for loves bamboo…<br>
-        But that’s not what I always call you…</p>
-
-        <p>Sometimes, when affection grows a little more…<br>
-        I say something sweeter… something simple… something you already know 😉</p>
-
-        <p>🔐 Think carefully…</p>
-
-        <p>
-          …not always said directly,<br>
-          but something that sounds like how you’d describe a baby 
-        </p>
-      </div>
-
-      <!-- ✅ NEW BUTTON -->
-      <button class="btn-primary" onclick="enterWorld()">
-        Open Our World 💕
-      </button>
-
-
-</div>   <!-- glass-card -->
-</div>   <!-- page-inner -->
-</div>   <!-- loginPage -->
   
-  <!-- 💌 Questions Page
+
+  <p>
+    …not always said directly,<br>
+    but something that sounds like how you’d describe a baby 
+  </p>
+</div>
+
+        <div class="form-group">
+          <label>Secret Name 🌸</label>
+          <input type="text" id="username" placeholder="Enter secret name" autocomplete="off"/>
+        </div>
+        <div class="form-group">
+          <label>Magic Password 🔑</label>
+          <input type="password" id="password" placeholder="Shh... type it softly"/>
+        </div>
+        <div class="error-msg" id="loginError">Oops! Try again cutie 🐼</div>
+        <button class="btn-primary" onclick="handleLogin()">Open Our World 💕</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 💌 Questions Page -->
   <div class="page" id="questionsPage">
     <div class="page-inner">
       <div class="glass-card questions-card">
@@ -82,11 +83,11 @@
         <h2 class="page-title">Let's See If You Know 😏</h2>
         <div class="questions-container" id="questionsContainer">
           <!-- Questions injected by JS -->
-        <!-- </div>
+        </div>
         <button class="btn-primary" onclick="handleContinue()">Continue 💖</button>
       </div>
     </div>
-  </div> --> -->
+  </div>
 
   <!-- 💖 Love Popup Overlay -->
   <div class="love-popup" id="lovePopup">
